@@ -19,6 +19,7 @@ app.get('/test', (req, res, next) => {
 });
 
 console.log(3);
+console.log(4);
 
 app.listen(3000, () => console.log('listening on port 3000'));
 
